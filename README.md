@@ -98,13 +98,15 @@
 </div>
 
 ---
-<div align="center">
-## 🤝 Connect With Me
 
+## 🤝 Connect With Me
+<div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neeraj-vs)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/neeraj_salehittal/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://neerajvs32.github.io/Neeraj-portfolio/classic.html)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neerajsalehittal3235@gmail.com)
+
 </div>
 ---
 
