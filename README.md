@@ -86,10 +86,9 @@
 - 🎓 **BCA** — Shree Guru Sudhindra College, Bhatkal *(2019–2022)* | 82.36%
 
 ---
-
+<div align="center">
 ## 📊 GitHub Stats
 
-<div align="center">
 
 ![Neeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neerajvs32&show_icons=true&theme=github_dark&hide_border=true)
 
