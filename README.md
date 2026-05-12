@@ -108,7 +108,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neerajsalehittal3235@gmail.com)
 
 </div>
----
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Neerajvs32&style=flat-square&color=2F81F7" alt="Profile Views"/>
