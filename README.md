@@ -28,7 +28,7 @@
 | 🎯 JSpider Selection | 1 of 2 selected from 500+ applicants |
 
 ---
-
+<div align="center">
 ## 🛠️ Tech Stack & Tools
 
 **Testing & QA**
@@ -51,7 +51,7 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
+</div>
 ---
 
 ## 💼 Work Experience
