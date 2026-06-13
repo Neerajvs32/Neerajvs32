@@ -28,7 +28,9 @@
 | 🎯 JSpider Selection | 1 of 2 selected from 500+ applicants |
 
 ---
+
 <div align="center">
+
 ## 🛠️ Tech Stack & Tools
 
 **Testing & QA**
@@ -51,7 +53,9 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
 </div>
+
 ---
 
 ## 💼 Work Experience
@@ -86,7 +90,9 @@
 - 🎓 **BCA** — Shree Guru Sudhindra College, Bhatkal *(2019–2022)* | 82.36%
 
 ---
+
 ## 📊 GitHub Stats
+
 <div align="center">
 
 ![Neeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Neerajvs32&show_icons=true&theme=github_dark&hide_border=true)
@@ -95,11 +101,14 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Neerajvs32&theme=github-dark&hide_border=true)
 
+![Neeraj's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Neerajvs32&theme=github-compact&hide_border=true&area=true)
+
 </div>
 
 ---
 
 ## 🤝 Connect With Me
+
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/neeraj-vs)
@@ -108,7 +117,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:neerajsalehittal3235@gmail.com)
 
 </div>
-
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Neerajvs32&style=flat-square&color=2F81F7" alt="Profile Views"/>
